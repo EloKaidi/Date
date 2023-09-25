@@ -15,5 +15,4 @@ files/tmp/*
 # ignore updates folder
 /updates/*
 
-# ignore sitemap.xml
 /sitemap.xml
