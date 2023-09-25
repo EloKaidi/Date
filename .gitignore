@@ -2,7 +2,6 @@
 error_log
 .htaccess
 
-# concrete5 5.6 specific
 
 config/site.php
 files/cache/*
